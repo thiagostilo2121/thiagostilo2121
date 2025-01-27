@@ -1,7 +1,7 @@
 # 💻 Thiago Valentín Stilo Limarino
 
 ### 🌟 Sobre Mí
-¡Hola! Soy Thiago, un desarrollador backend de 15 años apasionado por resolver problemas y crear sistemas eficientes. Mi camino comenzó con Scratch cuando tenía 8 años, y desde entonces me he sumergido en la programación y el desarrollo backend, construyendo herramientas, bots y bases de datos que funcionan a la perfección.
+¡Hola! Soy Thiago, un desarrollador backend de 15 años apasionado por resolver problemas y crear sistemas eficientes. Mi camino comenzó con Scratch cuando tenía 8 años, y desde entonces me he sumergido en la programación y el desarrollo backend, construyendo herramientas, bots y bases de datos que funcionan a la perfección. ***Oh, and I also speak English.***
 
 - **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina
 - **🎓 Meta:** Convertirme en un desarrollador backend de primer nivel, dominando tecnologías como Node.js, Docker y Machine Learning.
