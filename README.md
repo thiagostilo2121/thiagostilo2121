@@ -12,7 +12,7 @@
 ### 🔧 Tecnologías y Habilidades
 - **Lenguajes de Programación:** Python (experto), SQL, JavaScript (aprendiendo)
 - **Bases de Datos:** MongoDB, SQLite, y hasta sistemas personalizados basados en archivos `.txt`
-- **Frameworks y Herramientas:** Flask, Docker (próximamente), Node.js (próximamente)
+- **Frameworks y Herramientas:** Docker (próximamente), Node.js (próximamente)
 - **Proyectos Destacados:**
   - Bot funcional para TikTok con web scraping y una interfaz intuitiva para el usuario.
   - Módulo personalizado en Python para la gestión de bases de datos en `.txt`: `localDataBase`.
