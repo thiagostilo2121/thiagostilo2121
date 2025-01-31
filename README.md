@@ -4,26 +4,24 @@
 ¡Hola! Soy Thiago, un desarrollador backend de 15 años apasionado por resolver problemas y crear sistemas eficientes. Mi camino comenzó con Scratch cuando tenía 8 años, y desde entonces me he sumergido en la programación y el desarrollo backend, construyendo herramientas, bots y bases de datos que funcionan a la perfección. ***Oh, and I also speak English.***
 
 - **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina
-- **🎓 Meta:** Convertirme en un desarrollador backend de primer nivel, dominando tecnologías como Node.js, Docker y Machine Learning.
+- **🎓 Meta:** Convertirme en un desarrollador backend de primer nivel, dominando tecnologías como Node.js u otras (tal vez en el futuro ser full-stack).
 - **🚀 Visión:** Crear soluciones escalables y contribuir al mundo tecnológico como un desarrollador ingenioso y confiable.
 
 ---
 
 ### 🔧 Tecnologías y Habilidades
-- **Lenguajes de Programación:** Python (experto), SQL, JavaScript (aprendiendo)
+- **Lenguajes de Programación:** Python, SQL, JavaScript (aprendiendo)
 - **Bases de Datos:** MongoDB, SQLite, y hasta sistemas personalizados basados en archivos `.txt`
-- **Frameworks y Herramientas:** Docker (próximamente), Node.js (próximamente)
+- **Frameworks y Herramientas:** GIT, Node.js  + Express.js (próximamente)
 - **Proyectos Destacados:**
   - Bot funcional para TikTok con web scraping y una interfaz intuitiva para el usuario.
   - Módulo personalizado en Python para la gestión de bases de datos en `.txt`: `localDataBase`.
-  - Juegos fan-made colaborativos y experimentos creativos.
 
 ---
 
 ### 🌱 Actualmente Aprendiendo
 - **Node.js & Express.js** para escalabilidad backend
-- **Docker** para la contenedorización y despliegues simplificados
-- **Fundamentos de Machine Learning** para futuras innovaciones
+- **JS** si bien ya conozco su sintaxis, no tengo mucha experiencia
 - Explorando hacking ético y fundamentos de ciberseguridad por hobbie
 
 ---
@@ -50,6 +48,5 @@ Mi viaje en programación comenzó con Scratch, creció con curiosidad, y ahora 
 ### 📂 Proyectos Destacados
 1. **[Melina Streak TikTok Bot](https://github.com/thiagostilo2121/Melina-Streak-TikTok-Bot):** Automatiza la rachas del usuario con web scraping, incluye configuración amigable para el usuario y, proximamente, una UI limpia.
 2. **[Módulo LocalDataBase](https://pypi.org/project/localDataBase/):** Sistema de gestión de bases de datos en `.txt` desarrollado en Python.
-3. **[Juegos Fan-Made](#):** Proyectos colaborativos y creativos de mis primeros días.
 
 ¡No dudes en explorar mis repositorios y ver en qué estoy trabajando! 🚀
