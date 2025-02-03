@@ -12,10 +12,11 @@
 ### 🔧 Tecnologías y Habilidades
 - **Lenguajes de Programación:** Python, SQL, JavaScript (aprendiendo)
 - **Bases de Datos:** MongoDB, SQLite, y hasta sistemas personalizados basados en archivos `.txt`
-- **Frameworks y Herramientas:** GIT, Node.js  + Express.js (próximamente)
+- **Frameworks y Herramientas:** GIT y Node.js (Aprendiendo Express.js)
 - **Proyectos Destacados:**
   - Bot funcional para TikTok con web scraping y una interfaz intuitiva para el usuario.
-  - Módulo personalizado en Python para la gestión de bases de datos en `.txt`: `localDataBase`.
+  - Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js.
+
 
 ---
 
@@ -47,6 +48,6 @@ Mi viaje en programación comenzó con Scratch, creció con curiosidad, y ahora 
 
 ### 📂 Proyectos Destacados
 1. **[Melina Streak TikTok Bot](https://github.com/thiagostilo2121/Melina-Streak-TikTok-Bot):** Automatiza la rachas del usuario con web scraping, incluye configuración amigable para el usuario y, proximamente, una UI limpia.
-2. **[Módulo LocalDataBase](https://pypi.org/project/localDataBase/):** Sistema de gestión de bases de datos en `.txt` desarrollado en Python.
+2. **[ARBot](https://arbot.netlify,app/):** Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js.
 
 ¡No dudes en explorar mis repositorios y ver en qué estoy trabajando! 🚀
