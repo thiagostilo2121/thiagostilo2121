@@ -47,7 +47,7 @@ Mi viaje en programación comenzó con Scratch, creció con curiosidad, y ahora 
 ---
 
 ### 📂 Proyectos Destacados
-1. **[ARBot](https://arbot.netlify,app/):** Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js <- Futuramente open source.
-2. **[PyBotik](https://tiktok.com/@pytbotik):** ChatBot de TikTok <- El bot se encuentra closed source debido a un posible uso malicioso por parte de los que consumirían el código del proyecto y por los [terminos de TikTok](https://www.tiktok.com/legal/page/row/terms-of-service/).
+1. **[ARBot](https://arbot.netlify.app/):** Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js <- Futuramente open source.
+2. **[PyBotik](https://tiktok.com/@pybotik):** ChatBot de TikTok <- El bot se encuentra closed source debido a un posible uso malicioso por parte de los que consumirían el código del proyecto y por los [terminos de TikTok](https://www.tiktok.com/legal/page/row/terms-of-service/).
 
 ¡No dudes en explorar mis repositorios y ver en qué estoy trabajando! 🚀
