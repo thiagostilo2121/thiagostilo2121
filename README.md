@@ -11,7 +11,7 @@
 
 ### 🔧 Tecnologías y Habilidades
 - **Lenguajes de Programación:** Python, SQL, JavaScript (aprendiendo)
-- **Bases de Datos:** MongoDB, SQLite, y hasta sistemas personalizados basados en archivos `.txt`
+- **Bases de Datos:** MongoDB, MySQL, SQLite, y hasta sistemas personalizados basados en archivos `.txt` u otros archivos
 - **Frameworks y Herramientas:** GIT y Node.js (Aprendiendo Express.js)
 - **Proyectos Destacados:**
   - Librearía PyPi para la creación de TikTok chatbots con Selenium.
