@@ -1,47 +1,75 @@
 # 💻 Thiago Valentín Stilo Limarino
 
-### 🌟 Sobre Mí
-¡Hola! Soy Thiago, un desarrollador backend de 16 años apasionado por resolver problemas y crear sistemas eficientes. Mi camino comenzó con Scratch cuando tenía 8 años, y desde entonces me he sumergido en la programación y el desarrollo backend, construyendo herramientas, bots y bases de datos que funcionan a la perfección. ***Oh, and I also speak English.***
+### 🌟 Sobre mí
+Hola, soy Thiago, desarrollador backend con foco en sistemas reales, escalables y bien diseñados. Programo en Python desde los 11 años y hoy trabajo principalmente con APIs, bases de datos y arquitecturas backend modernas. Me interesa entender el *por qué* de las cosas, no solo hacer que funcionen.  
+***Also fluent in English.***
 
-- **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina
-- **🎓 Meta:** Convertirme en un desarrollador backend de primer nivel, dominando tecnologías como Node.js u otras (tal vez en el futuro ser full-stack).
-- **🚀 Visión:** Crear soluciones escalables y contribuir al mundo tecnológico como un desarrollador ingenioso y confiable.
+- **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina  
+- **🎓 Objetivo:** Convertirme en un desarrollador backend / full-stack sólido, con dominio profundo de arquitectura, datos e infraestructura.  
+- **🚀 Enfoque:** Construir productos útiles, limpios y mantenibles, no solo demos.
 
 ---
 
 ### 🔧 Tecnologías y Habilidades
-- **Lenguajes de Programación:** Python, SQL, JavaScript (aprendiendo)
-- **Bases de Datos:** MongoDB, MySQL, SQLite, y hasta sistemas personalizados basados en archivos `.txt` u otros archivos
-- **Frameworks y Herramientas:** GIT y Node.js (Aprendiendo Express.js)
-- **Proyectos Destacados:**
-  - Librearía PyPi para la creación de TikTok chatbots con Selenium.
-  - Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js.
-  - ChatBot funcional para TikTok.
+
+**Lenguajes**
+- Python (avanzado)
+- SQL
+- JavaScript (básico/intermedio)
+
+**Backend**
+- FastAPI
+- JWT / OAuth2
+- Validación con schemas (Pydantic)
+- SQLModel / SQLAlchemy
+- Arquitectura de APIs REST
+- WebSockets
+
+**Bases de datos**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Frontend**
+- React (Vite)
+- TailwindCSS  
+*(con apoyo de IA, pero entendiendo y adaptando el código)*
+
+**En aprendizaje / planificación**
+- Manejo de datos con pandas
+- Inteligencia Artificial y análisis de datos
+- Infraestructura y despliegue (cloud, arquitectura)
 
 ---
 
-### 📈 Logros y Estadísticas
-- Desarrollo y despliegue de múltiples proyectos antes de cumplir 16 años
-- Experto backend autodidacta con experiencia práctica en herramientas reales
-- Mejora continua de proyectos con nuevas optimizaciones y tecnologías
+### 🚀 Proyecto Destacado
+
+#### 🏪 **PEDILO** — SaaS de pedidos para comercios locales  
+Plataforma de menú digital y gestión de pedidos **sin comisiones**, con modelo de suscripción mensual fija.
+
+- Dashboard para negocios (productos, categorías, pedidos).
+- Clientes sin cuenta, pedidos por slug público.
+- Generación de códigos únicos por pedido.
+- Comunicación directa vía WhatsApp.
+- Backend en FastAPI + DB relacional.
+- Frontend en React + TailwindCSS.
 
 ---
 
-### 📫 Contáctame
-- **Correo:** stilothiagovalentin@gmail.com
-- **GitHub:** [thiagostilo2121](https://github.com/thiagostilo2121)
-- **LinkedIn:** ¡Próximamente!
+### 📈 Logros
+- Desarrollo de múltiples sistemas reales antes de los 17 años.
+- Implementación de APIs completas con autenticación, roles y bases de datos.
+- Experiencia práctica en productos en producción, no solo proyectos académicos.
+- Enfoque constante en mejorar arquitectura, rendimiento y diseño del código.
 
 ---
 
-### ⚡ Dato Curioso
-Mi viaje en programación comenzó con Scratch, creció con curiosidad, y ahora estoy creando herramientas y bots para el mundo real. Creo en mantener la curiosidad y mejorar siempre.
+### 📫 Contacto
+- **Email:** stilothiagovalentin@gmail.com  
+- **GitHub:** [github.com/thiagostilo2121](https://github.com/thiagostilo2121)  
+- **LinkedIn:** Próximamente
 
 ---
 
-### 📂 Proyectos Destacados
-1. **[PyUTAL](https://github.com/thiagostilo2121/utal):** Librería PyPi para la creación de chatbots con TikTok.
-2. **[ARBot](https://arbot.netlify.app/):** Bot de Discord orientado a la cultura y el humor argentino desarrollado en JavaScript con Node.js <- Futuramente open source.
-3. **[PyBotik](https://tiktok.com/@pybotik):** ChatBot de TikTok <- El bot se encuentra closed source debido a un posible uso malicioso por parte de los que consumirían el código del proyecto y por los [terminos de TikTok](https://www.tiktok.com/legal/page/row/terms-of-service/).
-
-¡No dudes en explorar mis repositorios y ver en qué estoy trabajando! 🚀
+### ⚡ Dato
+Empecé con Scratch a los 8, hoy construyo sistemas reales. Me importa más que el software sea correcto, mantenible y útil que simplemente “funcione”.
