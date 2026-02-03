@@ -1,7 +1,7 @@
 # 💻 Thiago Valentín Stilo Limarino
 
 ### 🌟 Sobre mí
-Hola, soy Thiago, desarrollador backend con foco en sistemas reales, escalables y bien diseñados. Programo en Python desde los 11 años y hoy trabajo principalmente con APIs, bases de datos y arquitecturas backend modernas. Me interesa entender el *por qué* de las cosas, no solo hacer que funcionen.  
+Hola, soy Thiago, tengo 16 años y soy desarrollador backend con foco en sistemas reales, escalables y bien diseñados. Programo en Python desde los 11 años y hoy trabajo principalmente con APIs, bases de datos y arquitecturas backend modernas. Me interesa entender el *por qué* de las cosas, no solo hacer que funcionen.  
 ***Also fluent in English.***
 
 - **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina  
