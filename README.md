@@ -58,6 +58,7 @@ Plataforma premium con Dashboard administrativo y sistema público de pedidos **
 
 ### 🍂 Otros Proyectos
 - [*FastAPI Starter Template (Boilerplate)*](https://github.com/thiagostilo2121/fastapi-thiagostilo-starter)
+- [*Portfolio*](https://stiloweb.netlify.app)
 
 ---
 
