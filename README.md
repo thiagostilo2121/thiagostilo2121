@@ -1,75 +1,85 @@
 # 💻 Thiago Valentín Stilo Limarino
+### *Backend Engineer | Software Architect en formación*
 
-### 🌟 Sobre mí
-Hola, soy Thiago, tengo 16 años y soy desarrollador backend con foco en sistemas reales, escalables y bien diseñados. Programo en Python desde los 11 años y hoy trabajo principalmente con APIs, bases de datos y arquitecturas backend modernas. Me interesa entender el *por qué* de las cosas, no solo hacer que funcionen.  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLModel-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+Hola, soy Thiago. A los 8 años empecé con Scratch y a los 11 ya estaba sumergido en Python. Hoy, con 16 años, mi enfoque no es solo "picar código", sino diseñar sistemas **reales, escalables y mantenibles**. Me apasiona la arquitectura backend robusta y la automatización de procesos.
+
 ***Also fluent in English.***
 
 - **🌎 Ubicación:** San Miguel, Buenos Aires, Argentina  
-- **🎓 Objetivo:** Convertirme en un desarrollador backend / full-stack sólido, con dominio profundo de arquitectura, datos e infraestructura.  
-- **🚀 Enfoque:** Construir productos útiles, limpios y mantenibles, no solo demos.
+- **🎓 Educación:** Futuro aspirante a **Ingeniería en Sistemas de Información** en la **UTN**.
+- **🚀 Visión:** Escalar **Pedilo** hasta cumplir su misión de democratizar la digitalización para miles de comercios locales, transformándolo en un estándar de la industria.
+- **⚖️ Filosofía:** Si no es mantenible y seguro, no está terminado.
 
 ---
 
-### 🔧 Tecnologías y Habilidades
+### 🔧 Stack Tecnológico & Conocimientos
 
-**Lenguajes**
-- Python (avanzado)
-- SQL
-- JavaScript (básico/intermedio)
+He aplicado estos conocimientos en entornos de producción reales (SaaS), priorizando siempre la lógica de servidor y la integridad de los datos.
 
-**Backend**
-- FastAPI
-- JWT / OAuth2
-- Validación con schemas (Pydantic)
-- SQLModel / SQLAlchemy
-- Arquitectura de APIs REST
-- WebSockets
+**Backend & Core (Especialidad)**
+- **Frameworks:** FastAPI (Avanzado), Pydantic (Validación de datos).
+- **ORM/Bases de Datos:** SQLModel, SQLAlchemy, PostgreSQL, Migraciones granulares.
+- **Seguridad:** Autenticación JWT, Seguridad de Cookies, RBAC (Control de acceso basado en roles), Argon2.
+- **Integraciones:** Mercado Pago (Webhooks, Checkouts, Suscripciones), Cloudinary (Gestión de Media).
+- **Asincronismo:** Python Asyncio de punta a punta.
 
-**Bases de datos**
-- PostgreSQL
-- MySQL
-- SQLite
+**DevOps & Calidad (Open Source Standards)**
+- **CI/CD:** Pipelines de GitHub Actions para validación automática.
+- **Code Quality:** Dominio de Ruff (Linting pro), MyPy (Tipado estricto), Bandit (Seguridad).
+- **Entornos:** Dockerización de aplicaciones, Makefiles para estandarización de workflows.
+- **Git:** Gestión avanzada de repositorios, flujos SSH y versionado semántico (v1.2.1).
 
-**Frontend**
-- React (Vite)
-- TailwindCSS  
-*(con apoyo de IA, pero entendiendo y adaptando el código)*
-
-**En aprendizaje / planificación**
-- Manejo de datos con pandas
-- Inteligencia Artificial y análisis de datos
-- Infraestructura y despliegue (cloud, arquitectura)
+**Frontend (Enfoque Pragmático)**
+- **Tecnologías:** React 19 (Vite), Tailwind CSS 4.
+- **UX:** Implementación de *Code Splitting* (React.lazy) y optimización de bundle para carga rápida.
+- **Acompañamiento:** Desarrollo potenciado por IA, priorizando el entendimiento y la adaptación del código para mantener la coherencia con el backend.
 
 ---
 
 ### 🚀 Proyecto Destacado
 
-#### 🏪 **PEDILO** — SaaS de pedidos para comercios locales  
-Plataforma de menú digital y gestión de pedidos **sin comisiones**, con modelo de suscripción mensual fija.
+#### 🏪 **[PEDILO](https://github.com/thiagostilo2121/pedilo-api) (v1.2.1)** — SaaS de pedidos para comercios locales
+Plataforma premium con Dashboard administrativo y sistema público de pedidos **sin comisiones**.
 
-- Dashboard para negocios (productos, categorías, pedidos).
-- Clientes sin cuenta, pedidos por slug público.
-- Generación de códigos únicos por pedido.
-- Comunicación directa vía WhatsApp.
-- Backend en FastAPI + DB relacional.
-- Frontend en React + TailwindCSS.
+- **Arquitectura:** Backend modular con rate-limiting, caché inteligente y auditoría de pedidos.
+- **Logística:** Generación de códigos únicos, gestión de stock en tiempo real y comunicación directa vía WhatsApp.
+- **Modelo de Negocio:** Sistema de suscripciones recurrentes integrado con Mercado Pago.
 
 ---
 
-### 📈 Logros
-- Desarrollo de múltiples sistemas reales antes de los 17 años.
-- Implementación de APIs completas con autenticación, roles y bases de datos.
-- Experiencia práctica en productos en producción, no solo proyectos académicos.
-- Enfoque constante en mejorar arquitectura, rendimiento y diseño del código.
+### 📈 Logros Relevantes
+- **Arquitecto a los 16:** Desarrollo de productos SaaS reales utilizados por negocios locales antes de terminar la secundaria.
+- **Obsesión por la Calidad:** Implementación de estándares de CI/CD que superan ampliamente los proyectos académicos convencionales.
+- **Enfoque en Producto:** Experiencia construyendo desde el modelado de datos hasta el SEO dinámico y sitemaps.
 
 ---
 
 ### 📫 Contacto
-- **Email:** stilothiagovalentin@gmail.com  
-- **GitHub:** [github.com/thiagostilo2121](https://github.com/thiagostilo2121)  
-- **LinkedIn:** Próximamente
+<p align="left">
+  <a href="mailto:stilothiagovalentin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/stiloou">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/stilo.tvl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/thiagostilo2121">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### ⚡ Dato
-Empecé con Scratch a los 8, hoy construyo sistemas reales. Me importa más que el software sea correcto, mantenible y útil que simplemente “funcione”.
+No busco que el software simplemente "funcione". Busco que sea **correcto**. Mi meta es construir la infraestructura que otros desarrolladores admiren usar.
