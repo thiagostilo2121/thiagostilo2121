@@ -64,7 +64,7 @@ Plataforma premium con Dashboard administrativo y sistema público de pedidos **
 
 ### 🌟 Contribuciones Destacadas
 
-- [*OpenArg Backend*](https://github.com/colossus-lab/openarg_backend) → 2 Merges
+- [*OpenArg Backend*](https://github.com/colossus-lab/openarg_backend) → Primer contributor open source del proyecto
 
 ---
 
