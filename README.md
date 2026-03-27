@@ -49,7 +49,10 @@ He aplicado estos conocimientos en entornos de producción reales (SaaS), priori
 
 ### 🚀 Proyecto Destacado
 
-#### 🏪 **[PEDILO](https://github.com/thiagostilo2121/pedilo-api)** — SaaS de pedidos para comercios locales
+#### 🏪 **[PEDILO](https://pediloarg.netlify.app)** — SaaS de pedidos para comercios locales
+- **[Frontend Repo](https://github.com/thiagostilo2121/pedilo-web)**
+- **The backend repository was changed to Private on March 27th of 2026**
+
 Plataforma premium con Dashboard administrativo y sistema público de pedidos **sin comisiones**.
 
 - **Arquitectura:** Backend modular con rate-limiting, caché inteligente y auditoría de pedidos.
