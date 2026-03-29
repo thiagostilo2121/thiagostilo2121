@@ -19,7 +19,7 @@ Hola, soy Thiago. A los 8 años empecé con Scratch y a los 11 ya estaba sumergi
 - **🚀 Visión:** Escalar **Pedilo** hasta cumplir su misión de democratizar la digitalización para miles de comercios locales, transformándolo en un estándar de la industria.
 - **⚖️ Filosofía:** Si no es mantenible y seguro, no está terminado.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagostilo2121)](https://github.com/anuraghazra/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagostilo2121)
 
 ---
 
