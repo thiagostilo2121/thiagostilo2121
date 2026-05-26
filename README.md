@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-Hola, soy Thiago. A los 8 años empecé con Scratch y a los 11 ya estaba sumergido en Python. Hoy, con 16 años, mi enfoque no es solo "picar código", sino diseñar sistemas **reales, escalables y mantenibles**. Me apasiona la arquitectura backend robusta y la automatización de procesos.
+Hola, soy Thiago. A los 8 años empecé con Scratch y a los 11 ya estaba sumergido en Python. Hoy, con 17 años, mi enfoque no es solo "picar código", sino diseñar sistemas **reales, escalables y mantenibles**. Me apasiona la arquitectura backend robusta y la automatización de procesos.
 
 ***Also fluent in English.***
 
