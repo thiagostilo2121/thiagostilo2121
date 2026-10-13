@@ -1,6 +1,6 @@
 from pathlib import Path
 
-# 💻 Thiago Valentín Stilo Limarino
+content= '''# 💻 Thiago Valentín Stilo Limarino
 ### Desarrollador Backend · Entusiasta de la Ingeniería de Software · Futuro Ingeniero en Sistemas
 
 <p align="left">
@@ -115,10 +115,6 @@ El objetivo es conectar la programación con la geología mediante análisis de 
 ### 🧰 [FastAPI Starter Template](https://github.com/thiagostilo2121/fastapi-thiagostilo-starter)
 
 Una plantilla reutilizable para iniciar proyectos backend, resultado de mi interés por las estructuras mantenibles, los estándares de desarrollo y la reducción de tareas repetitivas de configuración.
-
-### 🌐 [Portfolio](https://stiloweb.netlify.app)
-
-Un espacio para conocer otros trabajos y seguir mi recorrido como desarrollador.
 
 ---
 
