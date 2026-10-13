@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content= '''# 💻 Thiago Valentín Stilo Limarino
+# 💻 Thiago Valentín Stilo Limarino
 ### Desarrollador Backend · Entusiasta de la Ingeniería de Software · Futuro Ingeniero en Sistemas
 
 <p align="left">
@@ -160,7 +158,3 @@ No espero saberlo todo a los 17 años. Espero seguir aprendiendo, hacer mejores 
 ---
 
 > *Quiero construir software que no solo funcione, sino que ayude a comprender, mejorar y resolver problemas difíciles.*
-'''
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Actualizado: {path} ({path.stat().st_size} bytes)")
