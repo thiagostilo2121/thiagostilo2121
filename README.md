@@ -1,7 +1,7 @@
 from pathlib import Path
 
 content = r'''# 💻 Thiago Valentín Stilo Limarino
-### Backend Developer · Software Engineering Enthusiast · Future Systems Engineer
+### Desarrollador Backend · Entusiasta de la Ingeniería de Software · Futuro Ingeniero en Sistemas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,139 +12,139 @@ content = r'''# 💻 Thiago Valentín Stilo Limarino
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-I'm Thiago, a self-taught developer from Argentina with a strong interest in backend engineering, software architecture, databases, and the intersection between technology and other fields of knowledge.
+¡Hola! Soy Thiago, un desarrollador autodidacta de Argentina interesado en la ingeniería backend, la arquitectura de software, las bases de datos y la intersección entre la tecnología y otras áreas del conocimiento.
 
-My journey started with Scratch at eight and Python at eleven. Since then, programming has become much more than a hobby: it's a way to understand complex problems, build useful tools, and turn ideas into working systems.
+Mi recorrido comenzó con Scratch a los ocho años y continuó con Python a los once. Desde entonces, programar se convirtió en mucho más que un pasatiempo: es una forma de comprender problemas complejos, construir herramientas útiles y transformar ideas en sistemas funcionales.
 
-At 17, I'm still at the beginning of my professional journey, but I already have years of independent learning, hands-on development, and experience building software beyond the classroom. I care about understanding not only *how* something works, but *why* it works that way.
+Con 17 años, todavía estoy al comienzo de mi trayectoria profesional, pero ya acumulo años de aprendizaje independiente, desarrollo práctico y experiencia construyendo software más allá del aula. Me interesa entender no solo *cómo* funciona algo, sino también *por qué* funciona de esa manera.
 
-I'm particularly interested in the engineering behind software: system design, data integrity, maintainability, security, and the decisions that make a solution reliable in the long run.
+Me atrae especialmente la ingeniería que hay detrás del software: el diseño de sistemas, la integridad de los datos, la mantenibilidad, la seguridad y las decisiones que permiten que una solución siga siendo confiable a medida que crece.
 
-**I don't want to limit myself to writing software. I want to understand the problems worth solving and engineer the systems that solve them.**
+**No quiero limitarme a escribir código. Quiero comprender qué problemas vale la pena resolver y diseñar los sistemas que permitan hacerlo.**
 
-*Also fluent in English.*
+*También estudio inglés y me interesa seguir perfeccionándolo.*
 
-- 🌎 **Location:** Buenos Aires, Argentina
-- 🎓 **Next step:** Information Systems Engineering at Universidad Tecnológica Nacional (UTN)
-- 🧠 **Main interests:** Backend engineering, databases, software architecture, automation, and applied computing
-- 🎯 **Long-term goal:** Build useful products, develop strong engineering skills, and eventually create and lead my own software ventures.
-
----
-
-## 🧭 Beyond the Code
-
-I believe good software engineering begins long before writing the first line of code.
-
-It requires understanding the problem, questioning assumptions, modeling information correctly, considering trade-offs, and making decisions that remain sensible as a system grows.
-
-I'm interested in both the technical and strategic sides of software: from database transactions and API design to product decisions, business processes, and the real-world needs of the people using a system.
-
-I enjoy learning independently, connecting ideas across disciplines, and going deeper than simply finding something that works. I want to understand the fundamentals well enough to make informed decisions rather than depend on tools or abstractions I don't understand.
-
-My ambition is to become an engineer who can move between **technical depth, systems thinking, and product development**.
+- 🌎 **Ubicación:** Buenos Aires, Argentina
+- 🎓 **Próximo paso:** Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN)
+- 🧠 **Intereses principales:** Backend, bases de datos, arquitectura de software, automatización y computación aplicada
+- 🎯 **Objetivo a largo plazo:** Crear productos útiles, desarrollar una sólida capacidad de ingeniería y, eventualmente, impulsar mis propios proyectos y emprendimientos tecnológicos.
 
 ---
 
-## 🔬 Current Focus
+## 🧭 Más allá del código
 
-### Automated Petrographic Analysis
+Creo que la buena ingeniería de software empieza mucho antes de escribir la primera línea de código.
 
-I'm currently working on a project to automate parts of the analysis of **petrographic thin sections under a microscope**, with the goal of supporting the preparation of petrological reports.
+Requiere comprender el problema, cuestionar supuestos, modelar correctamente la información, evaluar alternativas y tomar decisiones que sigan teniendo sentido cuando el sistema crezca.
 
-The idea is to bring software engineering into a specialized scientific workflow, exploring how image processing, computational analysis, and domain knowledge can help automate repetitive tasks and extract useful information from microscope images.
+Me interesan tanto el lado técnico como el estratégico del software: desde las transacciones de una base de datos y el diseño de una API hasta las decisiones de producto, los procesos de una organización y las necesidades reales de quienes utilizan un sistema.
 
-The project involves exploring approaches such as:
+Disfruto aprender de forma autodidacta, conectar ideas de distintas disciplinas e ir más allá de encontrar algo que simplemente funcione. Quiero comprender los fundamentos para tomar decisiones con criterio, en lugar de depender de herramientas o abstracciones que no entiendo.
 
-- 🖼️ **Image processing:** Analyzing and processing microscope images.
-- 🔬 **Petrographic analysis:** Exploring the identification and quantification of minerals and relevant textural features.
-- 📊 **Scientific automation:** Turning analytical steps into reproducible computational workflows.
-- 🧩 **Domain-specific software:** Designing tools around the actual needs of geological and petrological work.
-
-The long-term vision is to develop a useful, extensible tool that can assist specialists rather than merely demonstrate a technical concept.
-
-This project reflects one of my favorite aspects of programming: **using computation to solve problems that exist beyond the software industry itself.**
-
-*The project is under active development, and its technical approach and capabilities are still evolving.*
+Mi objetivo es convertirme en un ingeniero capaz de combinar **profundidad técnica, pensamiento sistémico y desarrollo de productos**.
 
 ---
 
-## 🛠️ Technologies & Engineering Interests
+## 🔬 En qué estoy trabajando
 
-### Backend Development
-- **Languages:** Python
-- **Frameworks:** FastAPI
-- **Data validation:** Pydantic
-- **ORMs:** SQLAlchemy, SQLModel
-- **APIs:** REST, authentication, authorization, and asynchronous workflows
+### Automatización del análisis petrográfico
 
-### Databases & Data Integrity
-- **Databases:** PostgreSQL, SQLite, MySQL
-- **Schema design, relational modeling, and migrations**
-- **SQLAlchemy and Alembic**
-- **Transactions, constraints, and data consistency**
+Actualmente trabajo en un proyecto orientado a automatizar partes del análisis de **cortes delgados de rocas observados bajo microscopio**, con el objetivo de asistir en la elaboración de informes petrológicos.
 
-### Security & Application Architecture
-- JWT-based authentication and role-based access control (RBAC)
-- Password hashing with Argon2
-- Request validation, rate limiting, and secure API design
-- Modular architecture and separation of responsibilities
+La propuesta consiste en aplicar ingeniería de software a un flujo de trabajo científico especializado, explorando cómo el procesamiento de imágenes, el análisis computacional y el conocimiento del área pueden ayudar a automatizar tareas repetitivas y extraer información útil de imágenes microscópicas.
 
-### Development Infrastructure & Quality
-- Git and GitHub
-- Docker and containerized environments
-- GitHub Actions and CI/CD
-- Ruff, MyPy, and Bandit
-- Linux development environments and command-line tooling
+Entre las áreas que estoy explorando se encuentran:
 
-### Currently Deepening
-I'm particularly interested in the fundamentals behind the tools I use: database internals, concurrency, networking, operating systems, software design, and the principles that make systems reliable and maintainable.
+- 🖼️ **Procesamiento de imágenes:** análisis y tratamiento de imágenes obtenidas mediante microscopía.
+- 🔬 **Análisis petrográfico:** exploración de métodos para identificar y cuantificar minerales y características texturales relevantes.
+- 📊 **Automatización científica:** transformación de pasos de análisis en procesos computacionales reproducibles.
+- 🧩 **Software especializado:** diseño de herramientas adaptadas a las necesidades reales del trabajo geológico y petrológico.
 
-*This list reflects technologies and areas I've worked with or am actively studying; familiarity and depth vary by topic.*
+La visión a largo plazo es desarrollar una herramienta útil y extensible que pueda asistir a especialistas, en lugar de limitarse a demostrar un concepto técnico.
+
+Este proyecto representa uno de los aspectos que más me gustan de la programación: **utilizar la computación para resolver problemas que existen fuera de la industria del software**.
+
+*El proyecto está en desarrollo; su enfoque técnico y sus capacidades todavía están evolucionando.*
 
 ---
 
-## 🚀 Selected Work
+## 🛠️ Tecnologías e intereses de ingeniería
 
-### 🔬 Automated Petrographic Analysis
-**Current main project**
+### Desarrollo backend
+- **Lenguaje principal:** Python
+- **Framework:** FastAPI
+- **Validación de datos:** Pydantic
+- **ORM:** SQLAlchemy y SQLModel
+- **APIs:** REST, autenticación, autorización y flujos de trabajo asíncronos
 
-Software to assist with the analysis of petrographic thin sections and the preparation of petrological reports.
+### Bases de datos e integridad de datos
+- **Motores:** PostgreSQL, SQLite y MySQL
+- Diseño de esquemas y modelado relacional
+- SQLAlchemy y Alembic para persistencia y migraciones
+- Transacciones, restricciones y consistencia de datos
 
-The goal is to bridge programming and geology through image analysis, automation, and domain-specific computational tools.
+### Seguridad y arquitectura de aplicaciones
+- Autenticación mediante JWT y control de acceso basado en roles (RBAC)
+- Hashing de contraseñas con Argon2
+- Validación de solicitudes, limitación de tráfico y diseño seguro de APIs
+- Arquitectura modular y separación de responsabilidades
+
+### Infraestructura y calidad de desarrollo
+- Git y GitHub
+- Docker y entornos contenerizados
+- GitHub Actions y CI/CD
+- Ruff, MyPy y Bandit
+- Linux y herramientas de línea de comandos
+
+### Fundamentos que sigo profundizando
+Me interesa comprender los principios detrás de las herramientas que utilizo: internals de bases de datos, concurrencia, redes, sistemas operativos, diseño de software y los fundamentos que permiten construir sistemas confiables y mantenibles.
+
+*Esta lista incluye tecnologías con las que trabajé y áreas que sigo estudiando; mi experiencia y profundidad varían según el tema.*
+
+---
+
+## 🚀 Trabajos seleccionados
+
+### 🔬 Automatización del análisis petrográfico
+**Proyecto principal actual**
+
+Software para asistir en el análisis de cortes delgados de rocas y la elaboración de informes petrológicos.
+
+El objetivo es conectar la programación con la geología mediante análisis de imágenes, automatización y herramientas computacionales especializadas.
 
 ### 🧰 [FastAPI Starter Template](https://github.com/thiagostilo2121/fastapi-thiagostilo-starter)
 
-A reusable starting point for backend projects, reflecting my interest in maintainable structure, development standards, and reducing repetitive setup work.
+Una plantilla reutilizable para iniciar proyectos backend, resultado de mi interés por las estructuras mantenibles, los estándares de desarrollo y la reducción de tareas repetitivas de configuración.
 
 ### 🌐 [Portfolio](https://stiloweb.netlify.app)
 
-A place to explore more of my work and development journey.
+Un espacio para conocer otros trabajos y seguir mi recorrido como desarrollador.
 
 ---
 
-## 🌱 Open Source
+## 🌱 Código abierto
 
 ### [OpenArg Backend](https://github.com/colossus-lab/openarg_backend)
 
-My first open-source contribution to the project.
+Mi primera contribución a un proyecto de código abierto.
 
-I value open source as an opportunity to learn from other developers, collaborate on real codebases, and contribute beyond my own projects.
-
----
-
-## 🎯 What I'm Working Toward
-
-I'm preparing for a degree in **Information Systems Engineering at UTN**, where I want to strengthen my foundations in mathematics, systems, software engineering, and organizational thinking.
-
-In parallel, I want to keep building real things, studying the theory behind my decisions, contributing to collaborative projects, and learning how to turn technical ideas into useful products.
-
-I'm especially interested in the intersection of engineering and entrepreneurship: understanding a problem deeply, designing an appropriate solution, and building something that can create lasting value.
-
-I don't expect to know everything at 17. I expect to keep learning, ask better questions, and become more capable with every project I take on.
+Valoro el open source como una oportunidad para aprender de otros desarrolladores, colaborar en bases de código reales y aportar más allá de mis propios proyectos.
 
 ---
 
-## 📫 Contact
+## 🎯 Hacia dónde voy
+
+Me estoy preparando para estudiar **Ingeniería en Sistemas de Información en la UTN**, donde quiero fortalecer mis fundamentos de matemática, sistemas, ingeniería de software y pensamiento organizacional.
+
+En paralelo, quiero seguir construyendo proyectos reales, estudiando la teoría detrás de mis decisiones, colaborando con otros desarrolladores y aprendiendo a transformar ideas técnicas en productos útiles.
+
+Me interesa especialmente la intersección entre ingeniería y emprendimiento: comprender un problema en profundidad, diseñar una solución adecuada y construir algo capaz de generar valor a largo plazo.
+
+No espero saberlo todo a los 17 años. Espero seguir aprendiendo, hacer mejores preguntas y volverme más capaz con cada proyecto que emprenda.
+
+---
+
+## 📫 Contacto
 
 <p align="left">
   <a href="mailto:stilothiagovalentin@gmail.com">
@@ -163,8 +163,8 @@ I don't expect to know everything at 17. I expect to keep learning, ask better q
 
 ---
 
-> *I want to build software that doesn't just work, but makes difficult things easier to understand, improve, and solve.*
+> *Quiero construir software que no solo funcione, sino que ayude a comprender, mejorar y resolver problemas difíciles.*
 '''
 path = Path("/mnt/data/README.md")
 path.write_text(content, encoding="utf-8")
-print(f"Created: {path} ({path.stat().st_size} bytes)")
+print(f"Actualizado: {path} ({path.stat().st_size} bytes)")
