@@ -1,6 +1,6 @@
 from pathlib import Path
 
-content = r'''# 💻 Thiago Valentín Stilo Limarino
+# 💻 Thiago Valentín Stilo Limarino
 ### Desarrollador Backend · Entusiasta de la Ingeniería de Software · Futuro Ingeniero en Sistemas
 
 <p align="left">
