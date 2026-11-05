@@ -1,160 +1,175 @@
-# 💻 Thiago Valentín Stilo Limarino
-### Desarrollador Backend · Entusiasta de la Ingeniería de Software · Futuro Ingeniero en Sistemas
+# Thiago Valentín Stilo Limarino
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+### Backend Developer · Python · Software Engineering Enthusiast
 
-¡Hola! Soy Thiago, un desarrollador autodidacta de Argentina interesado en la ingeniería backend, la arquitectura de software, las bases de datos y la intersección entre la tecnología y otras áreas del conocimiento.
+Desarrollador backend autodidacta de Argentina, interesado en la ingeniería de software, el diseño de sistemas y la construcción de productos tecnológicos.
 
-Mi recorrido comenzó con Scratch a los ocho años y continuó con Python a los once. Desde entonces, programar se convirtió en mucho más que un pasatiempo: es una forma de comprender problemas complejos, construir herramientas útiles y transformar ideas en sistemas funcionales.
+Mi recorrido en programación comenzó a los ocho años, experimentando con juegos en PowerPoint y posteriormente con herramientas como Roblox Studio y Scratch. A los once años empecé a trabajar con Python, iniciando un proceso de aprendizaje independiente que continúa hasta hoy.
 
-Con 17 años, todavía estoy al comienzo de mi trayectoria profesional, pero ya acumulo años de aprendizaje independiente, desarrollo práctico y experiencia construyendo software más allá del aula. Me interesa entender no solo *cómo* funciona algo, sino también *por qué* funciona de esa manera.
+Actualmente, mi principal orientación es el desarrollo backend, especialmente las APIs, las bases de datos, la arquitectura de aplicaciones y la construcción de sistemas mantenibles.
 
-Me atrae especialmente la ingeniería que hay detrás del software: el diseño de sistemas, la integridad de los datos, la mantenibilidad, la seguridad y las decisiones que permiten que una solución siga siendo confiable a medida que crece.
+Pero mi interés por la tecnología no termina en el código. Me interesa comprender los problemas que existen detrás de cada sistema, las organizaciones que los enfrentan y las decisiones que permiten desarrollar soluciones útiles.
 
-**No quiero limitarme a escribir código. Quiero comprender qué problemas vale la pena resolver y diseñar los sistemas que permitan hacerlo.**
-
-*También estudio inglés y me interesa seguir perfeccionándolo.*
-
-- 🌎 **Ubicación:** Buenos Aires, Argentina
-- 🎓 **Próximo paso:** Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN)
-- 🧠 **Intereses principales:** Backend, bases de datos, arquitectura de software, automatización y computación aplicada
-- 🎯 **Objetivo a largo plazo:** Crear productos útiles, desarrollar una sólida capacidad de ingeniería y, eventualmente, impulsar mis propios proyectos y emprendimientos tecnológicos.
+Estoy al comienzo de mi trayectoria profesional y quiero aprovechar esa etapa para construir fundamentos sólidos, adquirir experiencia práctica y desarrollar una capacidad de ingeniería que siga creciendo con el tiempo.
 
 ---
 
-## 🧭 Más allá del código
+## 🧠 Mi forma de entender la ingeniería
 
-Creo que la buena ingeniería de software empieza mucho antes de escribir la primera línea de código.
+Considero que desarrollar software implica mucho más que implementar funcionalidades.
 
-Requiere comprender el problema, cuestionar supuestos, modelar correctamente la información, evaluar alternativas y tomar decisiones que sigan teniendo sentido cuando el sistema crezca.
+Antes de escribir código, es necesario comprender el problema, analizar sus restricciones, modelar la información y evaluar las alternativas disponibles. Después, hay que construir una solución que sea comprensible, mantenible y adecuada para su propósito.
 
-Me interesan tanto el lado técnico como el estratégico del software: desde las transacciones de una base de datos y el diseño de una API hasta las decisiones de producto, los procesos de una organización y las necesidades reales de quienes utilizan un sistema.
+Me interesa especialmente:
 
-Disfruto aprender de forma autodidacta, conectar ideas de distintas disciplinas e ir más allá de encontrar algo que simplemente funcione. Quiero comprender los fundamentos para tomar decisiones con criterio, en lugar de depender de herramientas o abstracciones que no entiendo.
+- **Pensamiento sistémico:** comprender cómo interactúan los componentes de un sistema y cómo las decisiones individuales afectan al conjunto.
+- **Resolución de problemas:** investigar, descomponer problemas complejos y buscar soluciones fundamentadas.
+- **Aprendizaje independiente:** estudiar conceptos por cuenta propia, experimentar y llevar lo aprendido a proyectos concretos.
+- **Diseño de software:** priorizar la separación de responsabilidades, la integridad de los datos, la seguridad y la mantenibilidad.
+- **Interdisciplinariedad:** aplicar conocimientos de programación a problemas de otras áreas, especialmente economía, organización y ciencias.
 
-Mi objetivo es convertirme en un ingeniero capaz de combinar **profundidad técnica, pensamiento sistémico y desarrollo de productos**.
+Mi objetivo es desarrollar la capacidad de participar en todo el proceso de creación de una solución: comprender una necesidad, diseñar una propuesta, implementarla y evaluar su utilidad.
 
----
+## 🛠️ Tecnologías y conocimientos
 
-## 🔬 En qué estoy trabajando
-
-### Automatización del análisis petrográfico
-
-Actualmente trabajo en un proyecto orientado a automatizar partes del análisis de **cortes delgados de rocas observados bajo microscopio**, con el objetivo de asistir en la elaboración de informes petrológicos.
-
-La propuesta consiste en aplicar ingeniería de software a un flujo de trabajo científico especializado, explorando cómo el procesamiento de imágenes, el análisis computacional y el conocimiento del área pueden ayudar a automatizar tareas repetitivas y extraer información útil de imágenes microscópicas.
-
-Entre las áreas que estoy explorando se encuentran:
-
-- 🖼️ **Procesamiento de imágenes:** análisis y tratamiento de imágenes obtenidas mediante microscopía.
-- 🔬 **Análisis petrográfico:** exploración de métodos para identificar y cuantificar minerales y características texturales relevantes.
-- 📊 **Automatización científica:** transformación de pasos de análisis en procesos computacionales reproducibles.
-- 🧩 **Software especializado:** diseño de herramientas adaptadas a las necesidades reales del trabajo geológico y petrológico.
-
-La visión a largo plazo es desarrollar una herramienta útil y extensible que pueda asistir a especialistas, en lugar de limitarse a demostrar un concepto técnico.
-
-Este proyecto representa uno de los aspectos que más me gustan de la programación: **utilizar la computación para resolver problemas que existen fuera de la industria del software**.
-
-*El proyecto está en desarrollo; su enfoque técnico y sus capacidades todavía están evolucionando.*
-
----
-
-## 🛠️ Tecnologías e intereses de ingeniería
+Mi principal lenguaje de programación es **Python**, con orientación al desarrollo backend.
 
 ### Desarrollo backend
-- **Lenguaje principal:** Python
-- **Framework:** FastAPI
-- **Validación de datos:** Pydantic
-- **ORM:** SQLAlchemy y SQLModel
-- **APIs:** REST, autenticación, autorización y flujos de trabajo asíncronos
-
-### Bases de datos e integridad de datos
-- **Motores:** PostgreSQL, SQLite y MySQL
-- Diseño de esquemas y modelado relacional
-- SQLAlchemy y Alembic para persistencia y migraciones
-- Transacciones, restricciones y consistencia de datos
-
-### Seguridad y arquitectura de aplicaciones
-- Autenticación mediante JWT y control de acceso basado en roles (RBAC)
-- Hashing de contraseñas con Argon2
-- Validación de solicitudes, limitación de tráfico y diseño seguro de APIs
+- Python
+- FastAPI
+- Pydantic
+- SQLAlchemy y SQLModel
+- APIs REST
+- Autenticación y autorización
 - Arquitectura modular y separación de responsabilidades
 
-### Infraestructura y calidad de desarrollo
+### Bases de datos
+- PostgreSQL
+- SQLite
+- MySQL
+- SQL y modelado relacional
+- Alembic y migraciones
+- Transacciones, restricciones e integridad de datos
+
+### Seguridad y desarrollo de aplicaciones
+- JWT y control de acceso basado en roles (RBAC)
+- Argon2 para hashing de contraseñas
+- Validación de datos
+- Limitación de solicitudes (rate limiting)
+
+### Herramientas e infraestructura
 - Git y GitHub
-- Docker y entornos contenerizados
-- GitHub Actions y CI/CD
-- Ruff, MyPy y Bandit
-- Linux y herramientas de línea de comandos
+- Linux y línea de comandos
+- Docker
+- GitHub Actions y fundamentos de CI/CD
 
-### Fundamentos que sigo profundizando
-Me interesa comprender los principios detrás de las herramientas que utilizo: internals de bases de datos, concurrencia, redes, sistemas operativos, diseño de software y los fundamentos que permiten construir sistemas confiables y mantenibles.
+### Áreas que sigo profundizando
+- Concurrencia y programación asíncrona
+- Redes y protocolos de comunicación
+- Sistemas operativos
+- Internals de bases de datos
+- Ingeniería de software y patrones de diseño
+- Seguridad de aplicaciones
 
-*Esta lista incluye tecnologías con las que trabajé y áreas que sigo estudiando; mi experiencia y profundidad varían según el tema.*
-
----
-
-## 🚀 Trabajos seleccionados
-
-### 🔬 Automatización del análisis petrográfico
-**Proyecto principal actual**
-
-Software para asistir en el análisis de cortes delgados de rocas y la elaboración de informes petrológicos.
-
-El objetivo es conectar la programación con la geología mediante análisis de imágenes, automatización y herramientas computacionales especializadas.
-
-### 🧰 [FastAPI Starter Template](https://github.com/thiagostilo2121/fastapi-thiagostilo-starter)
-
-Una plantilla reutilizable para iniciar proyectos backend, resultado de mi interés por las estructuras mantenibles, los estándares de desarrollo y la reducción de tareas repetitivas de configuración.
+> Esta lista refleja herramientas con las que trabajé y áreas que estudio. No implica el mismo nivel de dominio en todas ellas; prefiero ser transparente respecto de mi experiencia y seguir ampliándola.
 
 ---
 
-## 🌱 Código abierto
+## 🔬 Proyectos destacados
 
-### [OpenArg Backend](https://github.com/colossus-lab/openarg_backend)
+### **PetroLens** *(No incluye un repositorio público aún)* — Asistencia al análisis petrográfico
+
+Proyecto en desarrollo orientado a asistir en el análisis de cortes delgados de rocas observados mediante microscopía.
+
+La propuesta busca conectar la ingeniería de software con la geología, explorando cómo el procesamiento de imágenes y los métodos computacionales pueden ayudar a identificar características mineralógicas y texturales, cuantificar información y automatizar partes del trabajo petrológico.
+
+Entre sus principales áreas de desarrollo se encuentran:
+
+- Procesamiento y análisis de imágenes microscópicas.
+- Identificación y cuantificación de fases minerales.
+- Reconocimiento de características texturales.
+- Automatización de procesos de análisis.
+- Desarrollo de una herramienta extensible para investigación y enseñanza.
+
+El objetivo no es reemplazar el criterio del especialista, sino desarrollar una herramienta que lo asista.
+
+Este proyecto representa mi interés por utilizar la computación para resolver problemas que van más allá de la industria del software.
+
+*Estado: en desarrollo. Las funcionalidades y capacidades del sistema continúan evolucionando.*
+
+### [Pedilo API](https://github.com/thiagostilo2121/pedilo-api) — Backend de una plataforma de gestión de pedidos
+
+Backend de PEDILO, un proyecto personal orientado a facilitar la organización y administración de pedidos para pequeños negocios gastronómicos mediante una plataforma web.
+
+Fue una de mis primeras experiencias construyendo un producto de software con una finalidad comercial concreta, teniendo que considerar tanto las necesidades funcionales como la organización de la información y el comportamiento del sistema.
+
+El proyecto se encuentra descontinuado, pero representa una etapa importante de mi aprendizaje y experiencia práctica.
+
+### [OpenArg Backend](https://github.com/colossus-lab/openarg_backend) — Código abierto
 
 Mi primera contribución a un proyecto de código abierto.
 
-Valoro el open source como una oportunidad para aprender de otros desarrolladores, colaborar en bases de código reales y aportar más allá de mis propios proyectos.
+Considero el trabajo colaborativo una parte importante del crecimiento como desarrollador: permite aprender de otras personas, comprender bases de código ajenas y participar en proyectos que trascienden el trabajo individual.
 
 ---
 
-## 🎯 Hacia dónde voy
+## 🤝 Experiencia complementaria
 
-Me estoy preparando para estudiar **Ingeniería en Sistemas de Información en la UTN**, donde quiero fortalecer mis fundamentos de matemática, sistemas, ingeniería de software y pensamiento organizacional.
+Mi formación y mis experiencias fuera de la programación también contribuyen a la manera en que entiendo el trabajo y la resolución de problemas.
 
-En paralelo, quiero seguir construyendo proyectos reales, estudiando la teoría detrás de mis decisiones, colaborando con otros desarrolladores y aprendiendo a transformar ideas técnicas en productos útiles.
+### Liderazgo y organización
 
-Me interesa especialmente la intersección entre ingeniería y emprendimiento: comprender un problema en profundidad, diseñar una solución adecuada y construir algo capaz de generar valor a largo plazo.
+Tengo experiencia sostenida en representación estudiantil como delegado, participando en la comunicación entre estudiantes y autoridades y en la coordinación de grupos de más de 30 personas.
 
-No espero saberlo todo a los 17 años. Espero seguir aprendiendo, hacer mejores preguntas y volverme más capaz con cada proyecto que emprenda.
+Estas experiencias me permitieron desarrollar habilidades de organización, responsabilidad, comunicación interpersonal y representación de intereses colectivos.
+
+### Enseñanza y comunicación
+
+He dictado clases particulares de Matemática y Contabilidad, incluyendo contenidos correspondientes al último año de educación secundaria.
+
+La enseñanza me interesa porque exige comprender un concepto en profundidad, encontrar distintas maneras de explicarlo y adaptar la comunicación a quien está aprendiendo.
+
+También considero la comunicación oral y la capacidad de transmitir ideas complejas de forma clara como herramientas fundamentales para trabajar en equipos multidisciplinarios.
+
+### Economía y gestión organizacional
+
+Mi formación secundaria tiene orientación en Economía y Gestión de las Organizaciones.
+
+Me interesan la economía, la contabilidad, los procesos organizacionales y el emprendimiento. Considero que estos conocimientos complementan mi formación tecnológica, permitiéndome comprender no solamente cómo desarrollar un sistema, sino también qué necesidades económicas y organizacionales puede resolver.
+
+---
+
+## 🎓 Formación
+
+- **Educación secundaria:** orientación en Economía y Gestión de las Organizaciones. Desempeño académico destacado.
+- **Próxima formación universitaria:** actualmente cursando el ingreso para Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
+
+### Idiomas
+
+- **Español:** nativo.
+- **Inglés:** nivel B2 de formación, actualmente en perfeccionamiento.
+
+---
+
+## 🎯 Objetivos
+
+Quiero desarrollarme como ingeniero de software con capacidad para comprender problemas complejos, diseñar sistemas confiables y construir productos que generen valor.
+
+Me interesa especialmente la intersección entre tecnología, economía y emprendimiento: identificar necesidades, comprender su contexto y transformarlas en soluciones concretas.
+
+A corto y mediano plazo, busco fortalecer mis fundamentos técnicos, participar en proyectos colaborativos, adquirir experiencia en entornos profesionales y continuar desarrollando proyectos propios.
+
+No pretendo tener todas las respuestas al comienzo de mi carrera. Mi compromiso es seguir aprendiendo, cuestionar lo que creo saber y convertir cada experiencia en una oportunidad para mejorar.
 
 ---
 
 ## 📫 Contacto
 
-<p align="left">
-  <a href="mailto:stilothiagovalentin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/stiloou">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/stilo.tvl">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/thiagostilo2121">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- **Email:** [stilothiagovalentin@gmail.com](mailto:stilothiagovalentin@gmail.com)
+- **GitHub:** [@thiagostilo2121](https://github.com/thiagostilo2121)
+- **Instagram:** [@stilo.tvl](https://instagram.com/stilo.tvl)
+- **Ubicación:** Buenos Aires, Argentina
 
 ---
 
-> *Quiero construir software que no solo funcione, sino que ayude a comprender, mejorar y resolver problemas difíciles.*
+*Me interesa construir tecnología, pero sobre todo comprender los problemas que hacen necesaria su existencia.*
