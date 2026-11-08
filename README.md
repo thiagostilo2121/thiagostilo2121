@@ -60,6 +60,7 @@ Mi principal lenguaje de programación es **Python**, con orientación al desarr
 | **Control de versiones** | `Git` · `GitHub` |
 | **Entorno** | `Linux` |
 | **CI/CD** | `GitHub Actions` |
+| **Aprendiendo** | `Rust` |
 
 > 💡 **Nota de transparencia:** Esta lista refleja herramientas con las que trabajé y áreas que estudio activamente. No implica el mismo nivel de dominio en todas ellas; prefiero ser transparente respecto de mi experiencia y seguir ampliándola.
 
