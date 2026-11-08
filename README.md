@@ -47,17 +47,19 @@ Mi objetivo es desarrollar la capacidad de participar en todo el proceso de crea
 
 ---
 
-## 🛠️ Tecnologías y conocimientos
+## 🛠️ Tecnologías y herramientas
 
 Mi principal lenguaje de programación es **Python**, con orientación al desarrollo backend.
 
-| Categoría | Tecnologías y Herramientas |
+| Categoría | Tecnologías y herramientas |
 | :--- | :--- |
-| **Backend & APIs** | `Python` · `FastAPI` · `Pydantic` · `SQLAlchemy` · `SQLModel` · `REST APIs` · `Arquitectura Modular` |
-| **Bases de Datos** | `PostgreSQL` · `SQLite` · `MySQL` · `Alembic (Migraciones)` · `Modelado Relacional` |
-| **Seguridad** | `JWT` · `RBAC (Control de Acceso)` · `Argon2` · `Rate Limiting` · `Validación de Datos` |
-| **Infraestructura** | `Git / GitHub` · `Linux` · `Docker` · `GitHub Actions / CI/CD` |
-| **Áreas en Estudio** | `Concurrencia & Async` · `Redes & Protocolos` · `Sistemas Operativos` · `DB Internals` |
+| **Lenguaje** | `Python` |
+| **Backend** | `FastAPI` · `Pydantic` · `SQLAlchemy` · `SQLModel` |
+| **Bases de datos** | `PostgreSQL` · `SQLite` · `MySQL` |
+| **Migraciones** | `Alembic` |
+| **Control de versiones** | `Git` · `GitHub` |
+| **Entorno** | `Linux` |
+| **CI/CD** | `GitHub Actions` |
 
 > 💡 **Nota de transparencia:** Esta lista refleja herramientas con las que trabajé y áreas que estudio activamente. No implica el mismo nivel de dominio en todas ellas; prefiero ser transparente respecto de mi experiencia y seguir ampliándola.
 
