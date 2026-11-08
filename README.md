@@ -109,7 +109,7 @@ Mi formación y experiencias fuera de la programación enriquecen mi criterio t�
 
 ## 🎯 Objetivos
 
-Quiero desarrollarme como ingeniero de software con capacidad para comprender problemas complejos, diseñar sistemas confiables y construir productos que generen valor en la intersección entre tecnología, economía y emprendimiento.
+Quiero desarrollarme como ingeniero en sistemas con capacidad para comprender problemas complejos, diseñar sistemas confiables y construir productos que generen valor en la intersección entre tecnología, economía y emprendimiento.
 
 > *"No pretendo tener todas las respuestas al comienzo de mi carrera. Mi compromiso es seguir aprendiendo, cuestionar lo que creo saber y convertir cada experiencia en una oportunidad para mejorar."*
 
