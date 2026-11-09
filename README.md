@@ -73,6 +73,16 @@ Aplicación orientada a asistir en el análisis de cortes delgados de rocas medi
 
 El proyecto busca complementar el trabajo de geólogos e investigadores, sin reemplazar el criterio ni la interpretación del especialista.
 
+### 🐏 [RAMTable](https://github.com/thiagostilo2121/ramtable_py)
+
+**Tablas tipadas en memoria para Python.**
+
+Librería sin dependencias que da a los datos temporales de un programa un
+esquema explícito de columnas y tipos, con validación en tiempo de ejecución
+y operaciones de fila, sin necesidad de una base de datos.
+
+*Proyecto en desarrollo temprano; disponible por ahora en TestPyPI.*
+
 ### 🛒 [Pedilo API](https://github.com/thiagostilo2121/pedilo-api)
 
 **Backend para gestión de negocios gastronómicos.**
