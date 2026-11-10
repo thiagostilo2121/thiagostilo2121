@@ -81,7 +81,7 @@ Librería sin dependencias que da a los datos temporales de un programa un
 esquema explícito de columnas y tipos, con validación en tiempo de ejecución
 y operaciones de fila, sin necesidad de una base de datos.
 
-*Proyecto en desarrollo temprano; disponible por ahora en TestPyPI.*
+*Proyecto en desarrollo temprano; disponible por ahora en PyPi y TestPyPI.*
 
 ### 🛒 [Pedilo API](https://github.com/thiagostilo2121/pedilo-api)
 
