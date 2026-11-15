@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
 # Thiago Valentín Stilo Limarino
 
-### Backend Developer · Python · Systems Engineering Student (Incoming)
+### Backend Developer · Python · Próximo ingresante a Ingeniería en Sistemas de Información (UTN)
 
 <p align="center">
   <a href="mailto:stilothiagovalentin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
@@ -11,119 +11,105 @@
   <img src="https://img.shields.io/badge/Location-Buenos%20Aires%2C%20Argentina-green?style=flat-square" alt="Location">
 </p>
 
+<a href="README.en.md">English version</a>
+
 </div>
 
----
+> **Buscando:** mi primera posición como desarrollador backend, en modalidad remota, part-time desde febrero de 2027.
 
 ## 📌 Sobre mí
 
-Desarrollador backend autodidacta de Argentina, con especial interés en Python, el diseño de sistemas y la construcción de productos tecnológicos.
+Desarrollador backend autodidacta de Buenos Aires, Argentina. Trabajo principalmente con Python y me interesan el diseño de sistemas, las APIs y las bases de datos.
 
-Mi recorrido en programación comenzó a los ocho años, experimentando con juegos en PowerPoint y posteriormente con herramientas como Roblox Studio y Scratch. A los once años comencé a trabajar con Python, iniciando un proceso de aprendizaje independiente que continúa hasta hoy.
+Empecé a programar a los ocho años con juegos en PowerPoint, Roblox Studio y Scratch. A los once pasé a Python y desde entonces aprendo de forma independiente, con proyectos propios como principal método de estudio.
 
-Actualmente, mi principal orientación es el desarrollo backend, especialmente las APIs, las bases de datos, la arquitectura de aplicaciones y el diseño de sistemas mantenibles.
-
-También me interesa comprender el contexto en el que se desarrolla el software: los problemas que enfrentan las organizaciones, sus necesidades operativas y las decisiones técnicas y económicas que intervienen en la construcción de soluciones.
-
-Mi próximo paso académico es Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN), formación con la que busco complementar mi experiencia práctica y profundizar mis conocimientos en tecnología.
-
-## 🧠 Enfoque y criterios de desarrollo
-
-Entiendo el desarrollo de software como un proceso de resolución de problemas que comienza mucho antes de escribir código. Comprender los requisitos, analizar las restricciones y evaluar las alternativas disponibles es tan importante como la implementación.
-
-Mis principales intereses son:
-
-- **Diseño de sistemas:** arquitectura, separación de responsabilidades, modularidad y mantenibilidad.
-- **Desarrollo backend:** construcción de APIs, gestión de datos y lógica de negocio.
-- **Resolución de problemas:** análisis, investigación y descomposición de problemas complejos.
-- **Seguridad y confiabilidad:** validación, control de acceso y desarrollo de aplicaciones robustas.
-- **Aprendizaje continuo:** experimentación con tecnologías y aplicación práctica de nuevos conceptos.
-
-Me interesa participar en las distintas etapas del desarrollo de una solución, desde la comprensión de una necesidad hasta su implementación y evolución.
+Me interesa el contexto donde vive el software: qué problema resuelve una organización, qué restricciones tiene y qué decisiones técnicas y económicas hacen viable la solución.
 
 ## 🛠️ Tecnologías y herramientas
 
-Mi principal lenguaje de programación es **Python**, con orientación al desarrollo backend.
-
-| Categoría | Tecnologías y herramientas |
+| Categoría | Herramientas |
 | :--- | :--- |
-| **Lenguaje** | `Python` |
+| **Lenguajes** | `Python` · `Rust` (en aprendizaje) |
 | **Backend** | `FastAPI` · `Pydantic` · `SQLAlchemy` · `SQLModel` |
 | **Bases de datos** | `PostgreSQL` · `SQLite` · `MySQL` |
 | **Migraciones** | `Alembic` |
-| **Control de versiones** | `Git` · `GitHub` |
-| **Entornos** | `Linux` |
+| **Testing** | `pytest` |
 | **CI/CD** | `GitHub Actions` |
-| **En aprendizaje** | `Rust` |
+| **Documentación** | `Markdown` · `Mermaid` |
+| **Entorno** | `Linux` · `Git` · `GitHub` |
 
-> **Transparencia:** Las tecnologías mencionadas corresponden a herramientas con las que trabajé o que estudio activamente. Su inclusión no implica el mismo nivel de experiencia o dominio en todas ellas.
+> La lista reúne herramientas que usé en proyectos o que estudio activamente. No implica el mismo nivel de dominio en todas.
 
-## 🔬 Proyectos destacados
+## 🔬 Proyectos
 
-### 🪨 PetroLens — En desarrollo
+### 🐏 [RAMTable](https://github.com/thiagostilo2121/ramtable_py): tablas tipadas en memoria para Python
 
-**Asistencia al análisis petrográfico** · Repositorio privado temporalmente.
+Librería sin dependencias en runtime. Declarás un esquema de columnas y cada fila se valida al insertarse. Los datos viven en memoria, sin SQL ni escritura en disco.
 
-Aplicación orientada a asistir en el análisis de cortes delgados de rocas mediante imágenes microscópicas, integrando desarrollo de software y conocimientos geológicos.
+```bash
+python -m pip install ramtable
+```
 
-- Procesamiento y análisis de imágenes microscópicas.
-- Identificación de fases minerales y características texturales.
-- Automatización de tareas de análisis.
-- Diseño modular para separar la aplicación de los modelos de procesamiento.
+```python
+from ramtable import Table
 
-El proyecto busca complementar el trabajo de geólogos e investigadores, sin reemplazar el criterio ni la interpretación del especialista.
+people = Table(name="people", columns={"id": int, "name": str, "age": int})
+people.rows.insert({"id": 1, "name": "Ada", "age": 36})
 
-### 🐏 [RAMTable](https://github.com/thiagostilo2121/ramtable_py)
+older = people.rows.filter({"age": {">": 30}})
+print([row["name"] for row in older])
+# ['Ada']
+```
 
-**Tablas tipadas en memoria para Python.**
+Publicada en PyPI (v0.5.0), con documentación propia y licencia MIT. La integración continua corre los tests en Python 3.11 a 3.15, construye el wheel y ejecuta el ejemplo de inicio sobre el paquete instalado.
 
-Librería sin dependencias que da a los datos temporales de un programa un
-esquema explícito de columnas y tipos, con validación en tiempo de ejecución
-y operaciones de fila, sin necesidad de una base de datos.
+[PyPI](https://pypi.org/project/ramtable/) · [Documentación](https://thiagostilo2121.github.io/ramtable_py/) · [Código](https://github.com/thiagostilo2121/ramtable_py)
 
-*Proyecto en desarrollo temprano; disponible ahora en PyPi y TestPyPI.*
+### 🪨 PetroLens: asistencia al análisis petrográfico · en desarrollo
 
-### 🛒 [Pedilo API](https://github.com/thiagostilo2121/pedilo-api)
+Aplicación para asistir en el análisis de cortes delgados de rocas observados al microscopio. Combina procesamiento de imágenes con criterios petrológicos para identificar fases minerales y características texturales, y automatizar parte del trabajo de conteo y descripción.
 
-**Backend para gestión de negocios gastronómicos.**
+El diseño separa la aplicación de los modelos de procesamiento, para que las técnicas de análisis puedan cambiar sin reescribir el resto del sistema. El objetivo es complementar el criterio del geólogo, no reemplazarlo.
 
-Backend desarrollado para una plataforma de gestión de pedidos destinada a pequeños negocios gastronómicos.
+Aprendo petrología con mi abuelo, [Carlos Oscar Limarino](https://www.researchgate.net/profile/Carlos-Limarino), doctor en Ciencias Geológicas, investigador superior de CONICET y profesor emérito de la UBA, con trayectoria en sedimentología y estratigrafía del Paleozoico. Gracias a eso conozco el problema de primera mano y no desde afuera.
 
-Fue una de mis primeras experiencias construyendo un producto de software con una finalidad comercial concreta. Me permitió trabajar sobre lógica de negocio, persistencia de datos, gestión de pedidos y organización de una aplicación backend.
+El repositorio es privado mientras el proyecto se define. Puedo mostrar avances, capturas y decisiones de diseño en una conversación.
 
-*Proyecto discontinuado, pero una experiencia importante en mi aprendizaje.*
+### 🛒 [Pedilo API](https://github.com/thiagostilo2121/pedilo-api): backend para gestión de pedidos · descontinuado
 
-### 🌐 [OpenArg Backend](https://github.com/colossus-lab/openarg_backend)
+Backend de una plataforma de pedidos para pequeños negocios gastronómicos. Trabajé sobre autenticación, persistencia, lógica de pedidos y organización general de la aplicación.
 
-**Contribución Open Source.**
+Fue mi primera experiencia sosteniendo una aplicación backend completa con una finalidad comercial concreta. El proyecto no continuó, pero marcó el paso de los ejercicios sueltos a un producto con usuarios y necesidades reales.
 
-Mi primera experiencia colaborando en un proyecto de código abierto, trabajando sobre una base de código desarrollada por otras personas y participando en un entorno de desarrollo colaborativo.
+### 🌐 [OpenArg Backend](https://github.com/colossus-lab/openarg_backend): contribución open source
 
-Me permitió acercarme a dinámicas de trabajo distintas del desarrollo individual y comprender mejor la importancia de la legibilidad, la comunicación y la integración de cambios.
+Escribí la documentación técnica del backend: reorganicé el contenido existente y agregué diagramas Mermaid de arquitectura y de flujo. Dos commits incorporados al repositorio en marzo de 2026.
+
+Fue mi primera contribución sobre una base de código ajena y en un flujo de trabajo colaborativo. Me obligó a leer el sistema antes de escribir sobre él.
+
+[Ver contribuciones](https://github.com/colossus-lab/openarg_backend/commits?author=thiagostilo2121)
 
 ## 🤝 Experiencia complementaria
 
-Además de mi formación técnica, cuento con experiencias que contribuyen a mi capacidad de organización, comunicación y análisis.
-
-- **Liderazgo y organización:** experiencia sostenida como delegado estudiantil, coordinando grupos de más de 30 personas y actuando como intermediario entre estudiantes y autoridades.
-- **Enseñanza y comunicación:** experiencia dando clases particulares de Matemática y Contabilidad a estudiantes de nivel secundario. Esta actividad requiere adaptar explicaciones, estructurar contenidos y comunicar conceptos de manera clara.
-- **Economía y gestión:** formación secundaria orientada a Economía y Gestión de las Organizaciones, que aporta conocimientos sobre procesos organizacionales, administración y fundamentos económicos.
+- **Delegado estudiantil (4 años):** representé a los estudiantes ante las autoridades del colegio y coordiné grupos de más de 30 personas.
+- **Concejales del Futuro (2025, San Miguel, 2.º puesto):** equipo de cinco personas. Presentamos un proyecto de ordenanza para mejorar nuestro colegio, competimos contra 30 escuelas y ganamos 16 millones de pesos, que destinamos a la construcción de un playón deportivo.
+- **Clases particulares (1 año):** Matemática y Contabilidad para estudiantes de secundaria, con 8 alumnos y alrededor de 50 horas de enseñanza.
+- **Emprendimiento gastronómico:** con amigos armamos marca, logo, cuenta de Instagram y un plan de crecimiento para vender bizcochuelos. El proyecto no continuó porque el mercado ya tenía competidores establecidos. Ahí aprendí sobre precios, difusión y competencia.
 
 ## 🎓 Formación e idiomas
 
 - **Educación secundaria:** orientación en Economía y Gestión de las Organizaciones. Desempeño académico destacado.
-- **Formación técnica complementaria:** título de Técnico Informático mediante itinerario formativo, como parte de la trayectoria de educación secundaria.
-- **Educación superior:** ingreso a Ingeniería en Sistemas de Información — Universidad Tecnológica Nacional (UTN).
+- **Distinciones escolares:** Mejor Promedio, Mejor Compañero y abanderado de la bandera provincial.
+- **Técnico Informático:** itinerario formativo dentro de la educación secundaria.
+- **Educación superior:** ingreso a Ingeniería en Sistemas de Información, Universidad Tecnológica Nacional (UTN), en curso.
 - **Español:** nativo.
-- **Inglés:** B2, en perfeccionamiento.
+- **Inglés:** B2 según formación en instituto, sin certificación internacional.
 
 ## 🎯 Objetivos profesionales
 
-Mi objetivo es formarme como Ingeniero en Sistemas de Información y desarrollarme profesionalmente en el ámbito del software.
+Quiero mi primera experiencia en backend dentro de un equipo con prácticas establecidas: revisión de código, testing, despliegue y trabajo sobre una base de código compartida.
 
-Busco profundizar mis conocimientos en arquitectura, desarrollo backend y diseño de sistemas, participando en la construcción de soluciones tecnológicas que respondan a necesidades concretas.
-
-A largo plazo, me interesa combinar conocimientos técnicos, capacidad de análisis y visión de negocio para desarrollar productos propios y participar en proyectos donde la tecnología tenga un impacto real.
+A mediano plazo busco sumar arquitectura y diseño de sistemas a esa base. A largo plazo, combinar tecnología, análisis y visión de negocio en productos propios.
 
 ---
 
