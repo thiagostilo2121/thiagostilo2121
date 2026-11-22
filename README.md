@@ -61,7 +61,7 @@ print([row["name"] for row in older])
 # ['Ada']
 ```
 
-Publicada en PyPI (v0.5.0), con documentación propia y licencia MIT. La integración continua corre los tests en Python 3.11 a 3.15, construye el wheel y ejecuta el ejemplo de inicio sobre el paquete instalado.
+Publicada en PyPI y TestPyPI, con documentación propia y licencia MIT. La integración continua corre los tests en Python 3.11 a 3.15, construye el wheel y ejecuta el ejemplo de inicio sobre el paquete instalado.
 
 [PyPI](https://pypi.org/project/ramtable/) · [Documentación](https://thiagostilo2121.github.io/ramtable_py/) · [Código](https://github.com/thiagostilo2121/ramtable_py)
 
