@@ -63,7 +63,9 @@ print([row["name"] for row in older])
 
 Available on PyPI (v0.5.0), with its own documentation and an MIT license. CI runs the test suite on Python 3.11 through 3.15, builds the wheel, and runs the quick-start example against the installed package.
 
-[PyPI](https://pypi.org/project/ramtable/) · [Documentation](https://thiagostilo2121.github.io/ramtable_py/) · [Source](https://github.com/thiagostilo2121/ramtable_py)
+The [XERJ Corpus Hub](https://hub.xerj.org/corpus/thiagostilo2121--ramtable-py) indexes the repository as reference memory for AI agents. The copy matches commit `f4d078b`, keeps the MIT license, and every answer cites the repository, the commit and the file line.
+
+[PyPI](https://pypi.org/project/ramtable/) · [Documentation](https://thiagostilo2121.github.io/ramtable_py/) · [Source](https://github.com/thiagostilo2121/ramtable_py) · [XERJ Corpus Hub](https://hub.xerj.org/corpus/thiagostilo2121--ramtable-py)
 
 ### 🪨 PetroLens: petrographic analysis assistant · in development
 
