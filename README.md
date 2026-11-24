@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Location-Buenos%20Aires%2C%20Argentina-green?style=flat-square" alt="Location">
 </p>
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/thiagostilo2121"><img src="https://hub.xerj.org/contributors/thiagostilo2121/badge.svg" alt="XERJ Corpus Hub contributor"></a>
+</p>
+
 <a href="README.en.md">English version</a>
 
 </div>
@@ -63,9 +67,13 @@ print([row["name"] for row in older])
 
 Publicada en PyPI y TestPyPI, con documentación propia y licencia MIT. La integración continua corre los tests en Python 3.11 a 3.15, construye el wheel y ejecuta el ejemplo de inicio sobre el paquete instalado.
 
-El [XERJ Corpus Hub](https://hub.xerj.org/corpus/thiagostilo2121--ramtable-py) indexa el repositorio como memoria de referencia para agentes de IA. La copia corresponde al commit `f4d078b`, mantiene la licencia MIT y cada respuesta cita el repositorio, el commit y la línea del archivo.
-
 [PyPI](https://pypi.org/project/ramtable/) · [Documentación](https://thiagostilo2121.github.io/ramtable_py/) · [Código](https://github.com/thiagostilo2121/ramtable_py) · [XERJ Corpus Hub](https://hub.xerj.org/corpus/thiagostilo2121--ramtable-py)
+
+### 📚 Contribución al XERJ Corpus Hub
+
+XERJ seleccionó el commit `f4d078b` de RAMTable, «add insert defaults for table columns», como ejemplo de referencia para agentes de IA: 6 archivos y 543 líneas en `tests` y `src/ramtable`. El hub indexa el repositorio completo en ese commit, con licencia MIT y atribución al autor.
+
+[Corpus](https://hub.xerj.org/corpus/thiagostilo2121--ramtable-py) · [Perfil de contribuidor](https://hub.xerj.org/contributors/thiagostilo2121)
 
 ### 🪨 PetroLens: asistencia al análisis petrográfico · en desarrollo
 
